@@ -34,6 +34,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Mdanees786/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Mdanees786/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
