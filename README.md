@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mdanees786/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mdanees786/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -38,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
@@ -55,5 +58,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
