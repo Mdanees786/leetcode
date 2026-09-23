@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
+| [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mdanees786/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
@@ -44,4 +46,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
