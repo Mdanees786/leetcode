@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mdanees786/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mdanees786/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
