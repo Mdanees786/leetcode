@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mdanees786/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bit Manipulation
@@ -72,4 +73,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
