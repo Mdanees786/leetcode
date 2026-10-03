@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mdanees786/leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mdanees786/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mdanees786/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mdanees786/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -24,6 +26,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mdanees786/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
