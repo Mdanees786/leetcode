@@ -63,6 +63,7 @@
 | [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/Mdanees786/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Mdanees786/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
@@ -82,6 +83,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mdanees786/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,8 +93,14 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mdanees786/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mdanees786/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mdanees786/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Mdanees786/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
