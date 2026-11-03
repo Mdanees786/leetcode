@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Mdanees786/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Mdanees786/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mdanees786/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mdanees786/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -30,6 +31,7 @@
 | [0015-3sum](https://github.com/Mdanees786/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mdanees786/leetcode/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Mdanees786/leetcode/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mdanees786/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Mdanees786/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Mdanees786/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -130,5 +132,6 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mdanees786/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mdanees786/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
