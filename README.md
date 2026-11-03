@@ -13,6 +13,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Mdanees786/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Mdanees786/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mdanees786/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mdanees786/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mdanees786/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mdanees786/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
