@@ -132,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Mdanees786/leetcode/tree/master/0009-palindrome-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mdanees786/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mdanees786/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
